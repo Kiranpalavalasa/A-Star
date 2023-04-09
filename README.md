@@ -36,3 +36,6 @@ Run this in another terminal "rosrun a_star a_star.py"
  
 DRIVE LINK - 
 https://drive.google.com/drive/folders/16GGyuPAE8F9YZAacPd-9UOXELtEuco3W?usp=sharing
+
+Git Link:
+https://github.com/Risingfalcon/A-Star
