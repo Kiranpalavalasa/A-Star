@@ -25,7 +25,7 @@ To test the A* algorithm in 2D.
 2. Give Start node x, y and theta values with spaces 
 3. Give goal node x, y and theta values with spaces 
 4. 2 RPM values, the script will generate 8 action sets based on RPM values
-5> Test Case: Start Node -- (100 50 0) & Goal Node: (550 50), RPM1 & 2 -- 5 & 10
+5. Test Case: Start Node -- (100 50 0) & Goal Node: (550 50), RPM1 & 2 -- 5 & 10
 
 
 PART 2
