@@ -4,8 +4,6 @@ Shameek Chandra Vangapalli (119396582) - srvp
 Kiran Palavalasa - (119469804)- kpalaval
 
 
-
-
 The scripts includes following libraries:
 -math
 -heapdict
